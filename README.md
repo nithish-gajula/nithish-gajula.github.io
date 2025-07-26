@@ -1,2 +1,2 @@
 # My personal website
-https://gmikhail.github.io
+https://nithish-gajula.github.io/
